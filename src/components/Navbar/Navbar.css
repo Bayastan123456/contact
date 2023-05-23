@@ -1,0 +1,16 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-inp {
+  border-radius: 100px;
+  width: 20vw;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 40vw;
+  font-size: 20px;
+}

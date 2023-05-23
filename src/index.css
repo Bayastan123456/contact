@@ -1,0 +1,10 @@
+body {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.header {
+  text-align: center;
+}
+.card-list {
+  text-align: center;
+}
